@@ -1,11 +1,11 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E16AQHpVjf8O8qSQA/profile-displaybackgroundimage-shrink_350_1400/0/1634149067046?e=1703721600&v=beta&t=EunJYjDo807CAg6Ht6sF5HidAabFEfchKAdjFfX0780)](https://www.linkedin.com/in/andre-okvironi/)
 
 <h1 align="center">Hallo, my name is Andre Okvironi</h1>
-<h3 align="center">A Passionate to learn Technology and Programming</h3>
+<h4 align="center">A Passionate to learn Technology and Programming</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=okvironi&label=Profile%20views&color=0e75b6&style=flat" alt="okvironi" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=okvironi&label=Profile%20views&color=0e75b6&style=flat" alt="okvironi" /> </p>
 
-[![](https://visitcount.itsvg.in/api?id=okvironi&icon=0&color=1)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=okvironi&icon=0&color=1)](https://visitcount.itsvg.in) -->
 
 
 <h3 align="left">About me:</h3>
@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [INFINITIGROUP](www.infinitigroup.id)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Automation and Robotic**
 
 <br>
 <h3 align="left">Connect with me:</h3>
