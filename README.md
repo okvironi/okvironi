@@ -12,7 +12,7 @@
 <p align="justify">I am a graduate of Industrial Electronics Engineering. Has expertise in control, instrumentation, mechatronics, and robotics. I am proficient in programming, electronics, graphic design, and computer operations. Experienced as chairman of organizations and committees, and has good communication skills and teamwork. Interested in Machine Learning, Computer Vision, PLC, microcontroller, and mechatronic research development. Passionate to learn technology and programming.
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/okvironi/okvironi/blob/8fe5dc7bada3a7b244d7467bbcd0630dd5c270a8/Animation/joy.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/okvironi/okvironi/blob/387317ff68c0e712bb82a8238de1b79908f6ff9f/Animation/develop-web.gif">
 
 
 - 🔭 I’m currently working on [INFINITIGROUP](www.infinitigroup.id)
