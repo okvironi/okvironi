@@ -1,4 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E16AQHpVjf8O8qSQA/profile-displaybackgroundimage-shrink_350_1400/0/1634149067046?e=1703721600&v=beta&t=EunJYjDo807CAg6Ht6sF5HidAabFEfchKAdjFfX0780)](https://www.linkedin.com/in/andre-okvironi/)
+
 <h1 align="center">Hallo, my name is Andre Okvironi</h1>
 <h3 align="center">A Passionate to learn Technology and Programming</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/okvironi/okvironi/blob/8fe5dc7bada3a7b244d7467bbcd0630dd5c270a8/Animation/joy.gif">
