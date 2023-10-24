@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E16AQHpVjf8O8qSQA/profile-displaybackgroundimage-shrink_350_1400/0/1634149067046?e=1703721600&v=beta&t=EunJYjDo807CAg6Ht6sF5HidAabFEfchKAdjFfX0780)](https://www.linkedin.com/in/andre-okvironi/)
 <h1 align="center">Hallo, my name is Andre Okvironi</h1>
-<h3 align="center">A passionate automation and robotic engineering</h3>
+<h3 align="center">A Passionate to learn Technology and Programming</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okvironi&label=Profile%20views&color=0e75b6&style=flat" alt="okvironi" /> </p>
