@@ -3,7 +3,10 @@
 <h1 align="center">Hallo, my name is Andre Okvironi</h1>
 <h3 align="center">A Passionate to learn Technology and Programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=okvironi&label=Profile%20views&color=0e75b6&style=flat" alt="okvironi" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=okvironi&label=Profile%20views&color=0e75b6&style=flat" alt="okvironi" /> </p> -->
+
+[![](https://visitcount.itsvg.in/api?id=okvironi&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <h3 align="left">About me:</h3>
 <p align="justify">I am a graduate of Industrial Electronics Engineering. Has expertise in control, instrumentation, mechatronics, and robotics. I am proficient in programming, electronics, graphic design, and computer operations. Experienced as chairman of organizations and committees, and has good communication skills and teamwork. Interested in Machine Learning, Computer Vision, PLC, microcontroller, and mechatronic research development. Passionate to learn technology and programming.
@@ -28,12 +31,16 @@
 
 <br>
 <h3 align="left">GitHub Stats::</h3>
-
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=okvironi&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=okvironi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=okvironi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</div>
 
 <br>
 <h3 align="left">Random Dev Quote:</h3>
-
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
