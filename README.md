@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E16AQHpVjf8O8qSQA/profile-displaybackgroundimage-shrink_350_1400/0/1634149067046?e=1703721600&v=beta&t=EunJYjDo807CAg6Ht6sF5HidAabFEfchKAdjFfX0780)](https://www.linkedin.com/in/andre-okvironi/)
 
 <h1 align="center">Hallo, my name is Andre Okvironi</h1>
-<h4 align="center">A Passionate to learn Technology and Programming</h3>
+<h4 align="center">A Passionate to learn about Technology and Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okvironi&label=Profile%20views&color=0e75b6&style=flat" alt="okvironi" /> </p>
 
@@ -12,6 +12,7 @@
 <p align="justify">I am a graduate of Industrial Electronics Engineering. Has expertise in control, instrumentation, mechatronics, and robotics. I am proficient in programming, electronics, graphic design, and computer operations. Experienced as chairman of organizations and committees, and has good communication skills and teamwork. Interested in Machine Learning, Computer Vision, PLC, microcontroller, and mechatronic research development. Passionate to learn technology and programming.
 </p>
 
+<br>
 <img align="right" alt="Coding" width="400" src="https://github.com/okvironi/okvironi/blob/387317ff68c0e712bb82a8238de1b79908f6ff9f/Animation/develop-web.gif">
 
 
