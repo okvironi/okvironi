@@ -13,7 +13,7 @@
 </p>
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://github.com/okvironi/okvironi/blob/387317ff68c0e712bb82a8238de1b79908f6ff9f/Animation/develop-web.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/okvironi/okvironi/blob/387317ff68c0e712bb82a8238de1b79908f6ff9f/Animation/joy.gif">
 
 
 - 🔭 I’m currently working on [INFINITIGROUP](www.infinitigroup.id)
